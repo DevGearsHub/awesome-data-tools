@@ -4,15 +4,7 @@ on:
   schedule:
     # Run every Monday at 00:00 UTC
     - cron: '0 0 * * 1'
-  workflow_dispatch: # Allow manual trigger
-  push:
-    branches:
-      - main
-    paths:
-      - 'README.md'
-  pull_request:
-    paths:
-      - 'README.md'
+  workflow_dispatch: # Allow manual trigger only
 
 jobs:
   link-checker:
