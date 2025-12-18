@@ -194,7 +194,7 @@ This list focuses on helping developers and data professionals discover cloud se
 - **[PlanetScale](https://planetscale.com/)** — Free plan: 5GB storage, 1 billion row reads per month, 10 million row writes per month.
 - **[Supabase](https://supabase.com/)** — Free plan: 500MB database space, 2GB bandwidth, 50MB file storage, unlimited API requests.
 - **[Neon](https://neon.tech/)** — Serverless Postgres, free tier: 3GB storage per project, 1 project, unlimited queries.
-- **[CockroachDB Cloud](https://www.cockroachlabs.com/product/cockroachdb-cloud/)** — Free forever: 5GB storage, 50 million RUs per month.
+- **[CockroachDB Cloud](https://www.cockroachlabs.com/cloud/)** — Free forever: 5GB storage, 50 million RUs per month.
 - **[ElephantSQL](https://www.elephantsql.com/)** — PostgreSQL as a service, free plan: 20MB database size, 5 concurrent connections.
 
 ### NoSQL Databases
@@ -205,7 +205,7 @@ This list focuses on helping developers and data professionals discover cloud se
 - **[Azure Cosmos DB](https://azure.microsoft.com/en-us/services/cosmos-db/)** — 1000 RU/s and 25GB storage, always free.
 - **[Astra DB (DataStax)](https://www.datastax.com/products/datastax-astra)** — Free tier: 25GB storage, 5 million writes/month, 25 million reads/month.
 - **[Upstash](https://upstash.com/)** — Serverless Redis and Kafka. Free tier: 10,000 commands per day for Redis.
-- **[FaunaDB](https://fauna.com/)** — Free tier: 100,000 read ops, 50,000 write ops, 500,000 compute ops per month.
+- **[Fauna](https://fauna.com/)** — Free tier: 100,000 read ops, 50,000 write ops, 500,000 compute ops per month.
 - **[Cloudflare D1](https://www.cloudflare.com/developer-platform/d1/)** — Free tier: 5GB storage, 5 million rows read per day, 100,000 rows written per day.
 
 ### Time-Series Databases
@@ -289,7 +289,7 @@ This list focuses on helping developers and data professionals discover cloud se
 
 ### AI APIs
 
-- **[OpenAI API](https://openai.com/api/)** — Free trial credits for new users (time-limited).
+- **[OpenAI API](https://platform.openai.com/)** — Free trial credits for new users (time-limited).
 - **[Anthropic Claude](https://www.anthropic.com/)** — API access with usage-based pricing (no perpetual free tier).
 - **[Google Gemini API](https://ai.google.dev/)** — Free tier: 60 queries per minute.
 - **[Cohere](https://cohere.com/)** — Free tier for testing with limited API calls.
@@ -318,7 +318,7 @@ This list focuses on helping developers and data professionals discover cloud se
 - **[Bigeye](https://www.bigeye.com/)** — Free trial available.
 - **[Soda Cloud](https://www.soda.io/)** — Free tier: 1 million rows scanned per month.
 - **[dbt Cloud](https://www.getdbt.com/pricing/)** — Free tier: 1 developer seat, 3,000 model runs per month.
-- **[Lightup](https://www.lightup.ai/)** — Free trial available.
+- **[Lightup](https://lightup.ai/)** — Free trial available.
 - **[Databand](https://databand.ai/)** — Free trial, then paid.
 
 ---
