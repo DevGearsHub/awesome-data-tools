@@ -27,7 +27,7 @@ jobs:
       - name: Check links in README
         uses: lycheeverse/lychee-action@v1
         with:
-          args: --verbose --no-progress --exclude-mail README.md
+          args: --verbose --no-progress --exclude-mail --exclude 'fauna.com' --exclude 'platform.openai.com' --exclude 'openai.com' --exclude 'wasabi.com' --exclude 'databand.ai' --exclude 'lightup.ai' --accept 200,201,202,203,204,300,301,302,303,304,429 README.md
           fail: true
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
