@@ -1,5 +1,7 @@
 # Awesome Data Tools
 
+[![Check Links](https://github.com/DevGearsHub/awesome-data-tools/actions/workflows/link-checker.yml/badge.svg)](https://github.com/DevGearsHub/awesome-data-tools/actions/workflows/link-checker.yml)
+
 A curated list of cloud-based data tools, platforms, and services with free tiers for data engineers, analysts, and scientists.
 
 This list focuses on helping developers and data professionals discover cloud services that offer free tiers for data processing, storage, analytics, and machine learning. All services listed must have a genuinely free tier (not just a trial) that lasts at least one year.
